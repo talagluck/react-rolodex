@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-rolodex/static/css/main.6aaa44f4.chunk.css",
+    "main.js": "/react-rolodex/static/js/main.b09fc8bc.chunk.js",
+    "main.js.map": "/react-rolodex/static/js/main.b09fc8bc.chunk.js.map",
+    "runtime-main.js": "/react-rolodex/static/js/runtime-main.97754a52.js",
+    "runtime-main.js.map": "/react-rolodex/static/js/runtime-main.97754a52.js.map",
+    "static/js/2.d8d20882.chunk.js": "/react-rolodex/static/js/2.d8d20882.chunk.js",
+    "static/js/2.d8d20882.chunk.js.map": "/react-rolodex/static/js/2.d8d20882.chunk.js.map",
+    "index.html": "/react-rolodex/index.html",
+    "precache-manifest.f782fa7fb2b8c30f5c0f028662310a43.js": "/react-rolodex/precache-manifest.f782fa7fb2b8c30f5c0f028662310a43.js",
+    "service-worker.js": "/react-rolodex/service-worker.js",
+    "static/css/main.6aaa44f4.chunk.css.map": "/react-rolodex/static/css/main.6aaa44f4.chunk.css.map",
+    "static/js/2.d8d20882.chunk.js.LICENSE": "/react-rolodex/static/js/2.d8d20882.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97754a52.js",
+    "static/js/2.d8d20882.chunk.js",
+    "static/css/main.6aaa44f4.chunk.css",
+    "static/js/main.b09fc8bc.chunk.js"
+  ]
+}
